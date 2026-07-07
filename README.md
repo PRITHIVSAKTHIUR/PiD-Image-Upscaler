@@ -4,7 +4,7 @@ PiD-Image-Upscaler is an experimental, advanced super-resolution and image-to-im
 
 The workspace natively provides deep generation integration with Z-Image-Turbo (featuring real-time `madebyollin/taef1` latent streaming previews) and `black-forest-labs/FLUX.2-klein-4B` for image conditioning. It embeds a dynamic `gr.ImageSlider` view layer right into the frontend to let creators intuitively compare low-resolution baselines against raw pixel-space diffusion outputs. Fully GPU-accelerated and wrapped in a high-fidelity Orange Red interface theme, PiD-Image-Upscaler serves as a powerful standalone benchmarking sandbox for modern ultra-resolution rendering algorithms.
 
-<img width="1756" height="1411" alt="image" src="https://github.com/user-attachments/assets/ee1d923f-aab3-46dd-a1ee-2dfe45403e80" />
+<img width="1732" height="1275" alt="screencapture-huggingface-co-spaces-prithivMLmods-PiD-Image-Upscaler-2026-07-07-10_42_04" src="https://github.com/user-attachments/assets/bdf4fac5-1b22-4c44-b7ed-639d1b88647a" />
 
 ### **Key Features**
 
